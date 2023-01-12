@@ -1,0 +1,21 @@
+{
+	"format_version": "",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "",
+			"materials": {
+				"default": ""
+			},
+			"textures": {
+				"default": ""
+			},
+			"geometry": {
+				"default": "geometry.humanoid.armor.helmet:geometry.humanoid.armor1"
+			},
+			"scripts": {
+				"pre_animation": []
+			},
+			"render_controllers": []
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"BF"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "KCraft RP",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "f560dc32-78ba-4ac7-813e-b98bf24fed65",
+		"version": [
+			1,
+			2,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "a9a81b07-1c3c-4b6b-b753-47fee6fb5e49",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "7360f750-857b-4e48-a1af-feb5959b0aab",
+			"version": [
+				1,
+				2,
+				1
+			]
+		}
+	]
+}

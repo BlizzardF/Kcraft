@@ -1,0 +1,57 @@
+{
+	"resource_pack_name": "KCrafty",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"ck_steel_pickaxe": {
+			"textures": "textures/items/steelpickaxe"
+		},
+		"ck_steel_shovel": {
+			"textures": "textures/items/steel_shovel"
+		},
+		"ck_steel_sword": {
+			"textures": "textures/items/steel_sword"
+		},
+		"ck_steel_hoe": {
+			"textures": "textures/items/steel_hoe"
+		},
+		"ck_steel_axe": {
+			"textures": "textures/items/steel_axe"
+		},
+		"ck_steel_blend": {
+			"textures": "textures/items/steel_blend"
+		},
+		"ck_coke_coal": {
+			"textures": "textures/items/Coke_Coal"
+		},
+		"ck_steel_ingot": {
+			"textures": "textures/items/steel_ingot"
+		},
+		"ck_steel_helmet": {
+			"textures": "textures/items/steel_helmet"
+		},
+		"ck_steel_chestplate": {
+			"textures": "textures/items/steel_chestplate"
+		},
+		"ck_steel_leggings": {
+			"textures": "textures/items/steel_leggings"
+		},
+		"ck_steel_boots": {
+			"textures": "textures/items/steel_boots"
+		},
+		"ck_steel_rod": {
+			"textures": "textures/items/steel_rod"
+		},
+		"ck_iron_rod": {
+			"textures": "textures/items/iron_rod"
+		},
+		"ck_iron_reinforce_sword": {
+			"textures": "textures/items/iron_reinforce_sword"
+		},
+		"ck_steel_reinforced_sword": {
+			"textures": "textures/items/steel_reinforced_sword"
+		},
+		"ck_ice_sword": {
+			"textures": "textures/items/ice_sword"
+		}
+	}
+}

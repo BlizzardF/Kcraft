@@ -1,0 +1,11 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"ck:coal_generator": {
+		"sound": "stone",
+		"textures": "ck_coal_generator"
+	}
+}

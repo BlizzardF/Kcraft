@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "KCrafty",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"ck_coal_generator": {
+			"textures": "textures/blocks/coal_generator"
+		}
+	}
+}

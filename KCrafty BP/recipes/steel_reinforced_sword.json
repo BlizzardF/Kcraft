@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ck:steel_reinforced_sword"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"x": {
+				"item": "ck:steel_ingot"
+			},
+			"r": {
+				"item": "ck:steel_rod"
+			}
+		},
+		"pattern": [
+			"x",
+			"x",
+			"r"
+		],
+		"result": {
+			"item": "ck:steel_reinforced_sword"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "ck:steel_blend"
+		},
+		"tags": [],
+		"ingredients": [
+			{
+				"item": "ck:coke_coal",
+				"count": 3
+			},
+			{
+				"item": "minecraft:iron_ingot",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "ck:steel_blend"
+		}
+	}
+}

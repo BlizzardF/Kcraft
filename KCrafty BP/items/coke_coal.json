@@ -1,0 +1,18 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ck:coke_coal",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "ck_coke_coal"
+			},
+			"minecraft:max_stack_size": 64,
+			"minecraft:fuel": {
+				"120": {}
+			}
+		}
+	}
+}

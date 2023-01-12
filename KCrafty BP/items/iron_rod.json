@@ -1,0 +1,15 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ck:iron_rod",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "ck_iron_rod"
+			},
+			"minecraft:max_stack_size": 64
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ck:iron_reinforced_sword"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"x": {
+				"item": "minecraft:iron_sword"
+			},
+			"r": {
+				"item": "ck:iron_rod"
+			}
+		},
+		"pattern": [
+			" x ",
+			" x ",
+			" r "
+		],
+		"result": {
+			"item": "ck:iron_reinforce_sword"
+		}
+	}
+}

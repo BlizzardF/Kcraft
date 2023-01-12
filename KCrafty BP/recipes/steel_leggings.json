@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ck:steel_leggings"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"x": {
+				"item": "ck:steel_ingot"
+			}
+		},
+		"pattern": [
+			"xxx",
+			"x x",
+			"x x"
+		],
+		"result": {
+			"item": "ck:steel_leggings"
+		}
+	}
+}

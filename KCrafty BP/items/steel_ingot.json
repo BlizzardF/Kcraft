@@ -1,0 +1,15 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ck:steel_ingot",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "ck_steel_ingot"
+			},
+			"minecraft:max_stack_size": 64
+		}
+	}
+}

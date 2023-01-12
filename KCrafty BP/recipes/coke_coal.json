@@ -1,0 +1,13 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "ck:coke_coal"
+		},
+		"tags": [
+			"furnace"
+		],
+		"input": "minecraft:coal",
+		"output": "ck:coke_coal"
+	}
+}

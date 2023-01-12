@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ck:steel_boots"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"x": {
+				"item": "ck:steel_ingot"
+			}
+		},
+		"pattern": [
+			"x x",
+			"x x"
+		],
+		"result": {
+			"item": "ck:steel_boots"
+		}
+	}
+}

@@ -83,7 +83,15 @@
 					"amount": 2,
 					"target": "self"
 				}
-			}
+			},
+			"effect": {
+	"add_mob_effect": {
+		"effect": "slowness",
+		"target": "other",
+		"duration": 10,
+		"amplifier": 2
+	}
+}
 		}
 	}
 }

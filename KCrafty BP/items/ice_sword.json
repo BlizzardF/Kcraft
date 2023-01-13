@@ -85,9 +85,9 @@
 			},
 			"effect": {
 				"add_mob_effect": {
-					"effect": "slowness",
+					"effect": "mining_fatigue",
 					"target": "other",
-					"duration": 10,
+					"duration": 2,
 					"amplifier": 2
 				}
 			}

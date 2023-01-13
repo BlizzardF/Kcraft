@@ -23,7 +23,7 @@
 			},
 			"minecraft:render_offsets": "helmets",
 			"minecraft:armor": {
-				"protection": 2
+				"protection": 3
 			},
 			"minecraft:wearable": {
 				"slot": "slot.armor.head"
